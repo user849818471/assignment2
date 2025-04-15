@@ -11,3 +11,5 @@ MyMinHeap<T> - min-heap based on `MyArrayList<T>`
 
 ### Testing process
 You can run Main.java to test all functionality of each data structure
+
+Copy repository and run `Main.java` to test all functionality. 
